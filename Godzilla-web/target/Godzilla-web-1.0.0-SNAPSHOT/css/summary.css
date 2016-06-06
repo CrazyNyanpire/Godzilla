@@ -1,0 +1,60 @@
+.col-lg-12{
+	margin-bottom:10px;
+}
+h3{
+	margin-bottom:20px;
+}
+.control-label{
+	float:left;margin-left: 6.8%;margin-top: 6px;width: 65px;
+}
+body{
+	background-image: url(/images/background/normal.jpg);
+	background-size: 100%;
+}
+th {
+	text-align: center;
+}
+th,td{
+	border: 1px solid #666 !important;
+}
+.tablehead{
+	background-color: #999;
+	color: #fff;
+}
+.tableadd{
+	background-color:#c9d857;
+}
+.tablecontent{
+	background-color:#3db6c1;
+}
+.glyphiconInside{
+	cursor: pointer;
+}
+.thleft th{
+	text-align: left;
+}
+.modal-body{
+/* background-image: url(/images/background/normal.jpg);
+background-size: 100%; */
+}
+.table thead > tr > th, .table tbody > tr > th, .table tfoot > tr > th, .table thead > tr > td, .table tbody > tr > td, .table tfoot > tr > td {
+padding: 2px;}
+.total-firstTd{
+	font-weight: bold;
+	text-align:right;
+}
+.tablecontentchild>td[index='8'],.tablecontentchild>td[index='9'],.tablecontentchild>td[index='10']{
+	background-color:#e6cde3;
+}
+.modal tr{
+	text-align: left;
+}
+.export-button{
+	position: fixed;
+	transition: 0.5s;
+	right: -71px;
+	background-color: #eee;
+}
+.export-button:hover{
+	right: 0px;
+}
